@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=Anmol%20Rai&fontSize=60&fontColor=70a5fd&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20CS%20Undergrad%20%7C%20R%26D%20Enthusiast&descAlignY=58&descSize=18&descColor=a9b1d6&animation=fadeIn" />
-
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Deep+Learning+%7C+Neural+Networks+%7C+AI+Research;Building+MFIL-Net+%2B+VRN+for+IoMT+Diagnostics;Scopus-Indexed+Research+%40+ICICC+2026;Seeking+R%26D+%2F+Data+Science+Internships" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%7C+Data+Science+%7C+R%26D;Full+Stack+Development+%7C+Business+Analytics;Scopus-Indexed+Research+%40+ICICC+2026;Open+to+Internships+in+R%26D+%2F+Data+Science+%2F+SDE;%22If+you+work+hard+and+follow+your+curiosity%2C;you+will+find+a+way+to+turn+your+passions+into+purpose.%22" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -18,23 +15,45 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```python
 class AnmolRai:
     pronouns   = "he/him"
-    university = "Chandigarh University (B.E. CSE Hons. AI/ML – IBM) | GPA: 8.58/10"
-    roles      = ["Head CSR @ YOC", "PR Lead @ IEEE CS CUSB", "Mental Health Ambassador"]
-    interests  = ["Deep Learning", "Neural Networks", "IoMT", "Data Science", "R&D"]
-    seeking    = ["R&D Internship", "Data Science Internship", "Software Development"]
-    fun_fact   = "Silver Medalist – State Level Judo 🥋 | NCC Cadet | Class Prefect"
+    university = "Chandigarh University — B.E. CSE Hons. AI/ML (IBM) | GPA: 8.58/10"
+    roles      = "Head CSR @ Young Orators Club | PR Lead @ IEEE CS CUSB | Mental Health Ambassador"
+    interests  = "Deep Learning · Neural Networks · Data Science · Business Analytics · Full Stack Dev"
+    seeking    = "Internships in R&D · Data Science · Business Analysis · Software Engineering · FSD"
+    fun_fact   = "Silver Medalist — State Level Judo | NCC Cadet | Class Prefect"
 ```
 
-> Results-oriented AI/ML undergraduate with a strong foundation in deep learning, neural networks, and cutting-edge AI. Skilled in applying ML models and data science to drive innovation while leading across technical, literary, and management domains. Actively seeking internship opportunities in **R&D, Data Science, and Software Development** to deliver measurable impact.
+> Results-oriented AI/ML undergraduate with a strong foundation in deep learning, neural networks, and applied data science. Skilled at building end-to-end ML systems, deriving business insight from data, and developing full-stack applications. Actively seeking internship opportunities across **R&D, Data Science, Business Analysis, and Software Engineering** to deliver measurable, real-world impact.
 
 ---
 
-## 🛠️ Tech Stack
+## Experience
+
+**R&D Intern — Centre for Advanced Research Studies, Gujarat** *(Jun 2025 – Aug 2025)*
+
+- Conceptualised and engineered **MFIL-Net + VRN**, a multi-vital IoMT diagnostic framework for early disease detection from multi-source patient vitals, covering the full ML lifecycle: data ingestion, feature engineering, and model evaluation.
+- Evaluated six classification algorithms — RF, SVM, MLP, KNN, LR, and Decision Tree — through structured benchmarking to identify the optimal model across diverse patient profiles.
+- Delivered a fully reproducible, well-documented codebase ensuring research integrity and future scalability.
+- **Stack:** Python · Scikit-learn · TensorFlow · Pandas · NumPy · Matplotlib · Seaborn
+
+---
+
+## Achievements & Leadership
+
+- **Silver Medalist** — State Level Judo Athlete Tournament
+- **Head CSR** — Young Orators Club (YOC)
+- **PR Lead** — IEEE CS CUSB Chapter
+- **Mental Health Ambassador** — Chandigarh University
+- **NCC Cadet** · Class Prefect · Student Body Historian (Advisor)
+- **Scopus-Indexed Research Paper** — ICICC 2026
+
+---
+
+## Tech Stack
 
 <div align="center">
 
@@ -69,7 +88,7 @@ class AnmolRai:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -92,61 +111,44 @@ class AnmolRai:
 
 ---
 
-## 💼 Experience
+## Featured Projects
 
-### 🔬 R&D Intern — Centre for Advanced Research Studies, Gujarat *(Jun 2025 – Aug 2025)*
+**Sign Language Recognition Framework** — Research Paper · ICICC 2026 · Scopus-Indexed
 
-- Conceptualised and engineered **MFIL-Net + VRN**, a multi-vital IoMT diagnostic framework for early disease detection from multi-source patient vitals — covering the full ML lifecycle: data ingestion, feature engineering, and model evaluation.
-- Evaluated **6 classification algorithms** (RF, SVM, MLP, KNN, LR, Decision Tree) through structured benchmarking to identify the optimal model across diverse patient profiles.
-- Delivered a fully reproducible, well-documented codebase ensuring research integrity and future scalability.
-- **Stack:** Python · Scikit-learn · TensorFlow · Pandas · NumPy · Matplotlib · Seaborn
+Real-time 36-class gesture recognition pipeline using 42-dimensional hand landmark vectors, reducing input complexity while maintaining prediction accuracy. CNN classifier with 5-frame temporal voting for stable live inference across varied conditions.
+Stack: Python · OpenCV · TensorFlow · MediaPipe
 
 ---
 
-## 🚀 Featured Projects
+**AI Marg Darshak — AI-Powered Academic Analysis App**
 
-<div align="center">
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🤟 **[Sign Language Recognition](https://github.com/Anmol170405)** | Real-time 36-class gesture recognition pipeline using 42-dim hand landmark vectors + CNN with 5-frame temporal voting. **Scopus-indexed @ ICICC 2026** | Python · OpenCV · TensorFlow |
-| 🎓 **[AI Marg Darshak](https://github.com/Anmol170405)** | Full-stack AI platform with React frontend & NLP recommendation engine serving **500+ student profiles**. RF + Gradient Boosting with ~30% relevance improvement | Python · React · Scikit-learn |
-| 🏥 **[Multi-Disease Detection](https://github.com/Anmol170405/Multiple-Human-Disease-Detection-using-AIML-)** | ML pipeline (RF, SVM, MLP, KNN, XGBoost, LR, DT) for multi-disease prediction from patient vitals. AutoGluon + traditional ML with full EDA & ROC analysis | Python · AutoGluon · Scikit-learn |
-| 🧪 **[Fullstack Labs](https://github.com/Anmol170405/fullstack-labs)** | Full-stack experiments & practice projects | JavaScript · HTML · CSS |
-
-</div>
+Full-stack AI platform with a React frontend and NLP-based recommendation engine, delivering personalised academic guidance to 500+ student profiles. Random Forest and Gradient Boosting models with EDA-driven feature engineering improved recommendation relevance by ~30% over a rule-based baseline.
+Stack: Python · React · Scikit-learn · REST APIs
 
 ---
 
-## 🏆 GitHub Trophies
+**Multiple Human Disease Detection using AI/ML** — [View Repository](https://github.com/Anmol170405/Multiple-Human-Disease-Detection-using-AIML-)
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anmol170405&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-
-</div>
+End-to-end ML pipeline evaluating RF, SVM, MLP, KNN, XGBoost, LR, and Decision Tree for multi-disease prediction from patient vitals. Leveraged AutoGluon alongside traditional ML with full EDA, imbalance handling, correlation analysis, and ROC evaluation.
+Stack: Python · AutoGluon · Scikit-learn · Pandas
 
 ---
 
-## 🎖️ Achievements & Leadership
+**Fullstack Labs** — [View Repository](https://github.com/Anmol170405/fullstack-labs)
 
-- 🏅 **Silver Medalist** — State Level Judo Athlete Tournament
-- 🎗️ **Head CSR** @ Youth Organization Committee (YOC)
-- 📡 **PR Lead** @ IEEE CS CUSB Chapter
-- 🧭 **Mental Health Ambassador** — Chandigarh University
-- 🪖 **NCC Cadet** | Class Prefect | Student Body Historian (Advisor)
-- 📝 **Scopus-Indexed Research Paper** — ICICC 2026
+A collection of full-stack experiments spanning JavaScript, React SPAs, REST API integrations, and UI component work — built as a hands-on practice ground for modern web development.
+Stack: JavaScript · React · HTML · CSS · Node.js
 
 ---
 
-## 📫 Connect With Me
+## Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anmolrai05)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anmol170405)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rai679531@gmail.com)
-[![Phone](https://img.shields.io/badge/+91--6280984045-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916280984045)
+[![WhatsApp](https://img.shields.io/badge/+91--6280984045-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916280984045)
 
 </div>
 
@@ -155,7 +157,5 @@ class AnmolRai:
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,50:1a1b27,100:0d1117&height=120&section=footer"/>
-
-*"The best way to predict the future is to build it."*
 
 </div>

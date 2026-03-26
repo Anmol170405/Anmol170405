@@ -6,9 +6,9 @@ AI/ML Engineer | Data Science | Deep Learning Research
 
 ## About
 
-Second-year CSE undergraduate at Chandigarh University, specializing in machine learning and data science. Focus on research-driven approaches to real-world problems—healthcare diagnostics, computer vision, and academic intelligence systems.
+Results-oriented AI/ML undergraduate with a strong foundation in deep learning, neural networks, and cutting-edge AI. Skilled in applying ML models and data science to drive innovation while leading across technical, literary, and management domains.
 
-Currently exploring neuromorphic computing and production-grade ML pipelines. Experienced in end-to-end model development, from problem formulation through evaluation and deployment.
+Actively seeking internship opportunities in R&D, Data Science, and Software Development to deliver measurable impact. Experienced in end-to-end model development, from problem formulation through evaluation and deployment.
 
 ---
 
@@ -20,7 +20,7 @@ Jun 2025 – Aug 2025
 Engineered MFIL-Net + VRN diagnostic framework for multi-source patient vital analysis. Implemented complete ML lifecycle: data pipeline design, feature engineering, model benchmarking (6 algorithms), evaluation, and documentation.
 
 - Benchmarked Random Forest, SVM, MLP, KNN, XGBoost, Logistic Regression, Decision Tree
-- Hyperparameter optimization via AutoGluon
+- Hyperparameter optimization via scikit-learn grid search
 - Rigorous evaluation: ROC-AUC, confusion matrices, precision-recall curves
 - Production-ready reproducible codebase
 
@@ -59,7 +59,7 @@ End-to-end diagnostic pipeline predicting disease presence from patient vitals.
 
 **Technical approach:** Comprehensive EDA and feature analysis, 6+ classification algorithm benchmarking with scikit-learn and XGBoost, class imbalance handling via weighting, cross-validation strategy for robust evaluation.
 
-**Stack:** Python, Scikit-learn, XGBoost, AutoGluon, Pandas, Matplotlib
+**Stack:** Python, Scikit-learn, XGBoost, Pandas, Matplotlib
 
 [Repository](https://github.com/Anmol170405/Multiple-Human-Disease-Detection-using-AIML-)
 
@@ -67,36 +67,44 @@ End-to-end diagnostic pipeline predicting disease presence from patient vitals.
 
 ## Technical Skills
 
-### Languages
-- **Python** — Expert. 2+ years in ML/data science. Proficient in NumPy, Pandas, Scikit-learn, TensorFlow.
-- **JavaScript** — Advanced. 1.5+ years. React ecosystem, DOM manipulation, async patterns.
-- **Java** — Intermediate. Backend logic, OOP principles, REST APIs.
-- **SQL** — Intermediate. Database design, query optimization, transaction management.
-- **HTML / CSS** — Intermediate. Semantic markup, responsive layouts, CSS Grid/Flexbox.
+### Languages & Tools
+- **Python** – Expert. 2+ years in ML/data science applications
+- **SQL** – Intermediate. Database design and query optimization
+- **JavaScript** – Intermediate. React ecosystem and DOM manipulation
+- **HTML5** – Intermediate. Semantic markup and responsive layouts
+- **Java** – Intermediate. OOP principles and backend logic
+- **Git/GitHub** – Version control and collaborative development
+- **Jupyter Notebook** – Interactive data analysis and experimentation
+- **VS Code** – Primary development environment
 
-### Machine Learning & Data Science
-**Core competencies:** Supervised learning (regression, classification), unsupervised learning (clustering, dimensionality reduction), model evaluation and selection, feature engineering, statistical hypothesis testing.
+### ML & Data Science
+- **Pandas** – Data manipulation, cleaning, exploratory analysis
+- **NumPy** – Numerical computing and array operations
+- **Matplotlib** – Static data visualization
+- **Seaborn** – Statistical data visualization
+- **Scikit-learn** – Classification, regression, clustering, model evaluation
+- **OpenCV** – Computer vision tasks and image processing
+- **Feature Engineering** – Feature selection, scaling, transformation
+- **Statistical Modelling** – Hypothesis testing, regression analysis
+- **Model Evaluation** – Cross-validation, ROC-AUC, confusion matrices, hyperparameter tuning
 
-**Deep Learning:** CNNs for vision tasks, understanding of RNNs/LSTMs, transfer learning concepts, basic transformer architecture familiarity.
-
-**Data Analysis:** Exploratory data analysis, statistical modeling, time series basics, handling imbalanced datasets.
-
-**Tools:** Scikit-learn, TensorFlow/Keras, XGBoost, AutoGluon, Pandas, NumPy, Matplotlib, Seaborn.
-
-### Tools & Infrastructure
-- Version control: Git, GitHub
-- Development: VS Code, Jupyter Notebook, Google Colab
-- Databases: MySQL, MongoDB, SQLite
-- Visualization: Tableau, Matplotlib, Seaborn
+### Analytics & Research
+- **Excel** – Data analysis and spreadsheet modeling
+- **Tableau** – Business intelligence and data visualization
+- **Research Design** – Problem formulation and methodology
+- **Academic Writing** – Research papers and technical documentation
+- **Data Analysis** – EDA, statistical inference, insights generation
+- **React** – UI component development and state management
+- **REST APIs** – API design and integration
 
 ---
 
 ## Education
 
 **B.E. CSE (Honours) AI/ML Specialization**  
-Chandigarh University | Aug 2023 – Aug 2027 | GPA: 8.58/10
+Chandigarh University | Aug 2023 – Present | GPA 8.58/10
 
-Leadership: Head CSR (Youth Outreach Council), PR Lead (IEEE CS), Technical Coordinator (DCPD)
+Leadership: Head CSR (Youth Outreach Council), PR Lead (IEEE CS), TPP CR (Department of Career Planning and Development)
 
 **Senior Secondary**  
 MRA Sr. Sec. Model School, Chandigarh | CBSE | 72.8%
@@ -105,33 +113,42 @@ MRA Sr. Sec. Model School, Chandigarh | CBSE | 72.8%
 
 ## Certifications
 
-- Generative AI Foundations — AWS (2026)
-- Generative AI for Data Engineers — IBM (2025)
-- Database Programming with PL/SQL — Oracle (2025)
-- Foundations of Project Management — Google (2025)
-- Introduction to Machine Learning — Duke University
-- Programming in Python — IBM (2025)
-- SQL — UC Berkeley (2024)
-- GitHub Foundations — GitHub (2025)
+- Generative AI Foundations – AWS (2026)
+- Generative AI for Data Engineers – IBM (2025)
+- Database Programming with PL/SQL – Oracle (2025)
+- Foundations of Project Management – Google (2025)
+- Introduction to Machine Learning – Duke University
+- Programming in Python – IBM (2025)
+- SQL – UC Berkeley (2024)
+- GitHub Foundations – GitHub (2025)
 
 ---
 
 ## Recognition
 
-- **1st Place** — Future Build Innovation Pitch, AiFest CU (2026)
-- **1st Place** — Slam Poetry, PEC (2025)
-- **1st Runner-Up** — Debate, FreshGen DACA (2025)
-- **Top 5** — Yuva Utsav Poetry, MoYAS (2024)
-- **Top 10** — National Tech Quiz, GVM Sonepat (2024)
-- **Appreciation** — Director, AIT CSE
+- **1st Place** – Future Build Innovation Pitch, AiFest CU (2026)
+- **1st Place** – Slam Poetry, PEC (2025)
+- **1st Runner-Up** – Debate, FreshGen DACA (2025)
+- **Top 5** – Yuva Utsav Poetry, MoYAS (2024)
+- **Top 10** – National Tech Quiz, GVM Sonepat (2024)
+- **Appreciation** – Director, AIT CSE
 
 ---
 
-## GitHub
+## GitHub Stats
 
-83 contributions (last 12 months). Focus on ML pipelines, full-stack development, and data analysis tools.
+```
+Total Contributions: 83 (last 12 months)
+Total Commits: 18 (March 2026)
+Active Repositories: 15+
+Primary Languages: HTML, JavaScript, Python, Jupyter Notebook
+```
 
-Recent repositories: anmols-apothecary, controlled-observations, Multiple-Human-Disease-Detection-using-AIML
+**Top Repositories**
+- Multiple-Human-Disease-Detection-using-AIML – Healthcare ML pipeline
+- anmols-apothecary – Full-stack development project
+- controlled-observations – Data analysis toolkit
+- fullstack-labs – Web development experiments
 
 ---
 
@@ -145,4 +162,4 @@ Recent repositories: anmols-apothecary, controlled-observations, Multiple-Human-
 
 ---
 
-*Last updated: March 2026*
+*Last updated March 2026*

@@ -113,16 +113,17 @@ AnmolRai:
 
 ## Featured Projects
 ## Featured Projects
+## Featured Projects
 
 ### [Sign Language Recognition Framework — Research Paper · ICICC 2026 · Scopus-Indexed](https://www.linkedin.com/in/anmolrai05/overlay/Certifications/418887601/treasury/?profileId=ACoAAEbLMFsBgibCwyxHWvV3xRaJOmzxPP0e1ek)
 Real-time 36-class gesture recognition pipeline using 42-dimensional hand landmark vectors, reducing input complexity while maintaining prediction accuracy. CNN classifier with 5-frame temporal voting for stable live inference across varied conditions.  
 **Stack:** Python · OpenCV · TensorFlow · MediaPipe
 
-### Anmol's Apothecary — Personalized Wellness & Health Platform
+### [Anmol's Apothecary — Personalized Wellness & Health Platform](https://anmols-apothecary.netlify.app/login.html)
 Full-stack platform offering personalized wellness recommendations and tracking for users. Features include habit tracking, health analytics dashboard, and AI-based suggestions.  
 **Stack:** Python · React · Flask · PostgreSQL · REST APIs
 
-### Java Login Module — Secure Authentication System
+### [Java Login Module — Secure Authentication System](https://java-login-module.netlify.app/)
 Modular Java-based login system with encryption, session management, and role-based access control. Designed for easy integration into larger enterprise applications.  
 **Stack:** Java · Spring Boot · MySQL
 

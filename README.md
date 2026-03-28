@@ -8,7 +8,7 @@
 <!-- Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Anmol170405&color=70a5fd&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anmol%20Rai-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anmolrai05)
-[![GitHub](https://img.shields.io/badge/GitHub-Anmol170405-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anmol170405)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Anmol_Rai17-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Anmol_Rai17/)
 [![Email](https://img.shields.io/badge/Email-rai679531%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rai679531@gmail.com)
 
 </div>
@@ -18,7 +18,7 @@
 ## About Me
 
 ```python
-class AnmolRai:
+AnmolRai:
     pronouns   = "he/him"
     university = "Chandigarh University — B.E. CSE Hons. AI/ML (IBM) | GPA: 8.58/10"
     roles      = "Head CSR @ Young Orators Club | PR Lead @ IEEE CS CUSB | Mental Health Ambassador"
@@ -112,34 +112,23 @@ class AnmolRai:
 ---
 
 ## Featured Projects
+## Featured Projects
 
-**Sign Language Recognition Framework** — Research Paper · ICICC 2026 · Scopus-Indexed
+### [Sign Language Recognition Framework — Research Paper · ICICC 2026 · Scopus-Indexed](https://www.linkedin.com/in/anmolrai05/overlay/Certifications/418887601/treasury/?profileId=ACoAAEbLMFsBgibCwyxHWvV3xRaJOmzxPP0e1ek)
+Real-time 36-class gesture recognition pipeline using 42-dimensional hand landmark vectors, reducing input complexity while maintaining prediction accuracy. CNN classifier with 5-frame temporal voting for stable live inference across varied conditions.  
+**Stack:** Python · OpenCV · TensorFlow · MediaPipe
 
-Real-time 36-class gesture recognition pipeline using 42-dimensional hand landmark vectors, reducing input complexity while maintaining prediction accuracy. CNN classifier with 5-frame temporal voting for stable live inference across varied conditions.
-Stack: Python · OpenCV · TensorFlow · MediaPipe
+### Anmol's Apothecary — Personalized Wellness & Health Platform
+Full-stack platform offering personalized wellness recommendations and tracking for users. Features include habit tracking, health analytics dashboard, and AI-based suggestions.  
+**Stack:** Python · React · Flask · PostgreSQL · REST APIs
 
----
+### Java Login Module — Secure Authentication System
+Modular Java-based login system with encryption, session management, and role-based access control. Designed for easy integration into larger enterprise applications.  
+**Stack:** Java · Spring Boot · MySQL
 
-**AI Marg Darshak — AI-Powered Academic Analysis App**
-
-Full-stack AI platform with a React frontend and NLP-based recommendation engine, delivering personalised academic guidance to 500+ student profiles. Random Forest and Gradient Boosting models with EDA-driven feature engineering improved recommendation relevance by ~30% over a rule-based baseline.
-Stack: Python · React · Scikit-learn · REST APIs
-
----
-
-**Multiple Human Disease Detection using AI/ML** — [View Repository](https://github.com/Anmol170405/Multiple-Human-Disease-Detection-using-AIML-)
-
-End-to-end ML pipeline evaluating RF, SVM, MLP, KNN, XGBoost, LR, and Decision Tree for multi-disease prediction from patient vitals. Leveraged AutoGluon alongside traditional ML with full EDA, imbalance handling, correlation analysis, and ROC evaluation.
-Stack: Python · AutoGluon · Scikit-learn · Pandas
-
----
-
-**Fullstack Labs** — [View Repository](https://github.com/Anmol170405/fullstack-labs)
-
-A collection of full-stack experiments spanning JavaScript, React SPAs, REST API integrations, and UI component work — built as a hands-on practice ground for modern web development.
-Stack: JavaScript · React · HTML · CSS · Node.js
-
----
+### [Multiple Human Disease Detection using AI/ML](#)
+End-to-end ML pipeline evaluating RF, SVM, MLP, KNN, XGBoost, LR, and Decision Tree for multi-disease prediction from patient vitals. Leveraged AutoGluon alongside traditional ML with full EDA, imbalance handling, correlation analysis, and ROC evaluation.  
+**Stack:** Python · AutoGluon · Scikit-learn · Pandas
 
 ## Connect
 
